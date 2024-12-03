@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\phone C#\\Phone_c#\\\u7A97\u53E3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B751CE0C-BAC2-4646-8CC8-AB14647A5EB4}|\u7A97\u53E3\\\u7A97\u53E3.csproj|D:\\phone C#\\Phone_c#\\\u7A97\u53E3\\\u7A97\u53E3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B751CE0C-BAC2-4646-8CC8-AB14647A5EB4}|\u7A97\u53E3\\\u7A97\u53E3.csproj|solutionrelative:\u7A97\u53E3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B751CE0C-BAC2-4646-8CC8-AB14647A5EB4}|\u7A97\u53E3\\\u7A97\u53E3.csproj|D:\\phone C#\\Phone_c#\\\u7A97\u53E3\\\u7A97\u53E3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B751CE0C-BAC2-4646-8CC8-AB14647A5EB4}|\u7A97\u53E3\\\u7A97\u53E3.csproj|solutionrelative:\u7A97\u53E3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B751CE0C-BAC2-4646-8CC8-AB14647A5EB4}|\u7A97\u53E3\\\u7A97\u53E3.csproj|d:\\phone c#\\phone_c#\\\u7A97\u53E3\\\u7A97\u53E3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B751CE0C-BAC2-4646-8CC8-AB14647A5EB4}|\u7A97\u53E3\\\u7A97\u53E3.csproj|solutionrelative:\u7A97\u53E3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B751CE0C-BAC2-4646-8CC8-AB14647A5EB4}|\u7A97\u53E3\\\u7A97\u53E3.csproj|D:\\phone C#\\Phone_c#\\\u7A97\u53E3\\\u7A97\u53E3\\createform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B751CE0C-BAC2-4646-8CC8-AB14647A5EB4}|\u7A97\u53E3\\\u7A97\u53E3.csproj|solutionrelative:\u7A97\u53E3\\createform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B751CE0C-BAC2-4646-8CC8-AB14647A5EB4}|\u7A97\u53E3\\\u7A97\u53E3.csproj|D:\\phone C#\\Phone_c#\\\u7A97\u53E3\\\u7A97\u53E3\\createm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B751CE0C-BAC2-4646-8CC8-AB14647A5EB4}|\u7A97\u53E3\\\u7A97\u53E3.csproj|solutionrelative:\u7A97\u53E3\\createm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B751CE0C-BAC2-4646-8CC8-AB14647A5EB4}|\u7A97\u53E3\\\u7A97\u53E3.csproj|D:\\phone C#\\Phone_c#\\\u7A97\u53E3\\\u7A97\u53E3\\classform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B751CE0C-BAC2-4646-8CC8-AB14647A5EB4}|\u7A97\u53E3\\\u7A97\u53E3.csproj|solutionrelative:\u7A97\u53E3\\classform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B751CE0C-BAC2-4646-8CC8-AB14647A5EB4}|\u7A97\u53E3\\\u7A97\u53E3.csproj|D:\\phone C#\\Phone_c#\\\u7A97\u53E3\\\u7A97\u53E3\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B751CE0C-BAC2-4646-8CC8-AB14647A5EB4}|\u7A97\u53E3\\\u7A97\u53E3.csproj|solutionrelative:\u7A97\u53E3\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TcpServer.cs",
+              "DocumentMoniker": "D:\\phone C#\\Phone_c#\\\u7A97\u53E3\\\u7A97\u53E3\\TcpServer.cs",
+              "RelativeDocumentMoniker": "\u7A97\u53E3\\TcpServer.cs",
+              "ToolTip": "D:\\phone C#\\Phone_c#\\\u7A97\u53E3\\\u7A97\u53E3\\TcpServer.cs",
+              "RelativeToolTip": "\u7A97\u53E3\\TcpServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:45:53.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\phone C#\\Phone_c#\\\u7A97\u53E3\\\u7A97\u53E3\\Form1.cs",
+              "RelativeDocumentMoniker": "\u7A97\u53E3\\Form1.cs",
+              "ToolTip": "D:\\phone C#\\Phone_c#\\\u7A97\u53E3\\\u7A97\u53E3\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "\u7A97\u53E3\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:30:54.259Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\phone C#\\Phone_c#\\\u7A97\u53E3\\\u7A97\u53E3\\Form1.cs",
+              "RelativeDocumentMoniker": "\u7A97\u53E3\\Form1.cs",
+              "ToolTip": "D:\\phone C#\\Phone_c#\\\u7A97\u53E3\\\u7A97\u53E3\\Form1.cs",
+              "RelativeToolTip": "\u7A97\u53E3\\Form1.cs",
+              "ViewState": "AQIAAH8JAAAAAAAAAAAkwJAJAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:51:25.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateForm.cs",
+              "DocumentMoniker": "D:\\phone C#\\Phone_c#\\\u7A97\u53E3\\\u7A97\u53E3\\CreateForm.cs",
+              "RelativeDocumentMoniker": "\u7A97\u53E3\\CreateForm.cs",
+              "ToolTip": "D:\\phone C#\\Phone_c#\\\u7A97\u53E3\\\u7A97\u53E3\\CreateForm.cs",
+              "RelativeToolTip": "\u7A97\u53E3\\CreateForm.cs",
+              "ViewState": "AQIAAOgAAAAAAAAAAAAlwPcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:06:54.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\phone C#\\Phone_c#\\\u7A97\u53E3\\\u7A97\u53E3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "\u7A97\u53E3\\Form1.Designer.cs",
+              "ToolTip": "D:\\phone C#\\Phone_c#\\\u7A97\u53E3\\\u7A97\u53E3\\Form1.Designer.cs",
+              "RelativeToolTip": "\u7A97\u53E3\\Form1.Designer.cs",
+              "ViewState": "AQIAALENAAAAAAAAAAAAAMkNAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:09:38.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateM.cs",
+              "DocumentMoniker": "D:\\phone C#\\Phone_c#\\\u7A97\u53E3\\\u7A97\u53E3\\CreateM.cs",
+              "RelativeDocumentMoniker": "\u7A97\u53E3\\CreateM.cs",
+              "ToolTip": "D:\\phone C#\\Phone_c#\\\u7A97\u53E3\\\u7A97\u53E3\\CreateM.cs",
+              "RelativeToolTip": "\u7A97\u53E3\\CreateM.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAkwI4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T10:29:13.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClassForm.cs",
+              "DocumentMoniker": "D:\\phone C#\\Phone_c#\\\u7A97\u53E3\\\u7A97\u53E3\\ClassForm.cs",
+              "RelativeDocumentMoniker": "\u7A97\u53E3\\ClassForm.cs",
+              "ToolTip": "D:\\phone C#\\Phone_c#\\\u7A97\u53E3\\\u7A97\u53E3\\ClassForm.cs",
+              "RelativeToolTip": "\u7A97\u53E3\\ClassForm.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwEUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:14:23.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

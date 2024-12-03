@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1345BE27-C6DE-4C90-8FB2-26E63F3A4C1A}|test1\\test1.csproj|c:\\users\\administrator\\desktop\\test1\\test1\\watchdog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1345BE27-C6DE-4C90-8FB2-26E63F3A4C1A}|test1\\test1.csproj|solutionrelative:test1\\watchdog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1345BE27-C6DE-4C90-8FB2-26E63F3A4C1A}|test1\\test1.csproj|C:\\Users\\Administrator\\Desktop\\test1\\test1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1345BE27-C6DE-4C90-8FB2-26E63F3A4C1A}|test1\\test1.csproj|solutionrelative:test1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1345BE27-C6DE-4C90-8FB2-26E63F3A4C1A}|test1\\test1.csproj|C:\\Users\\Administrator\\Desktop\\test1\\test1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1345BE27-C6DE-4C90-8FB2-26E63F3A4C1A}|test1\\test1.csproj|solutionrelative:test1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1345BE27-C6DE-4C90-8FB2-26E63F3A4C1A}|test1\\test1.csproj|C:\\Users\\Administrator\\Desktop\\test1\\test1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1345BE27-C6DE-4C90-8FB2-26E63F3A4C1A}|test1\\test1.csproj|solutionrelative:test1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\test1\\test1\\Program.cs",
+              "RelativeDocumentMoniker": "test1\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\test1\\test1\\Program.cs",
+              "RelativeToolTip": "test1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:13:17.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WatchDog.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\test1\\test1\\WatchDog.cs",
+              "RelativeDocumentMoniker": "test1\\WatchDog.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\test1\\test1\\WatchDog.cs",
+              "RelativeToolTip": "test1\\WatchDog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:10:04.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\test1\\test1\\Form1.cs",
+              "RelativeDocumentMoniker": "test1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\test1\\test1\\Form1.cs",
+              "RelativeToolTip": "test1\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:55:44.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\test1\\test1\\Form1.cs",
+              "RelativeDocumentMoniker": "test1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\test1\\test1\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "test1\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:50:37.266Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
